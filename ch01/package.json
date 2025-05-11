@@ -1,5 +1,6 @@
 {
   "name": "ch01",
+  "homepage": "https://shinnau.github.io/react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
